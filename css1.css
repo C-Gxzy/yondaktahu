@@ -1,0 +1,53 @@
+body {
+    background-image: url(img/city2.jpg);
+    background-size: cover;
+    margin: 0%;
+}
+
+.header h1 {
+    position: relative;
+    background-color:black;
+    margin-top: 0%;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+    color:white;
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.section {
+    width: 816px;
+    height: 300px;
+    border: 1px solid transparent;
+    margin: auto;
+}
+
+.isi {
+    width: 190px;
+    height: 300px;
+    float: left;
+    background-color: transparent;
+    margin: 5px;
+    padding: 0px;
+    border: 2px solid white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gambarisi {
+    border-image: 0px;
+}
+.gambartext h2 {
+    text-align: center;
+    color: white;
+}
+.gambartext p {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    text-align: left;
+    line-height: 5.5px;
+}
+.gambartext a:link {
+    color: white;
+}
